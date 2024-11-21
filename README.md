@@ -25,8 +25,6 @@ I tried to add the best protection I could to this website. I'm referring to pro
 -   HTML 5
 -   CSS 3
 -   JavaScript
--   SweetAlert 2
--   FontAwesome 6.5.1
 
 ## Setup
 
@@ -36,7 +34,7 @@ If you have everything, you can run these commands:
 
 ```
 # Clone this respository
-> git clone https://github.com/Mati822456/Laravel-Blog-Website.git
+
 
 # Go into the folder
 > cd Laravel-Blog-Website
