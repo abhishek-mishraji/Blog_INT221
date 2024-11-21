@@ -1,3 +1,15 @@
+Topi:- Blog Web for the youtuber (Client based Project)
+
+youtube link:-  https://www.youtube.com/@VivekPandeyVlogss
+
+Deployed- Link-- https://vivekpandeyblog-ac22f5318f84.herokuapp.com/
+or
+https://vivekpandeylaravel-cd514db8a36f.herokuapp.com/
+
+
+
+
+
 # Laravel-Blog-Website
 
 A straightforward blog page written in PHP/Laravel.
